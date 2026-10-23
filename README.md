@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f6feb,100:58a6ff&height=220&section=header&text=elasi2007og-hub&fontSize=42&fontColor=ffffff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=35&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Implantaci%C3%B3n%20Web%20(IAW)&descAlignY=58&descSize=17" width="100%" alt="Banner de elasi2007og-hub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f6feb,100:58a6ff&height=220&section=header&text=Asier%20Orgaz%20Gabriel&fontSize=40&fontColor=ffffff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=35&desc=2%C2%BA%20ASIR%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Redes%20%E2%80%A2%20Implantaci%C3%B3n%20Web%20(IAW)&descAlignY=58&descSize=17" width="100%" alt="Banner de Asier Orgaz Gabriel" />
 </p>
 
-<h1 align="center">¡Hola! Soy elasi2007og-hub 👋</h1>
+<h1 align="center">¡Hola! Soy Asier Orgaz Gabriel 👋</h1>
 <p align="center">
   <strong>Estudiante de 2º ASIR • Administración de Sistemas, Redes e Implantación de Aplicaciones Web (IAW)</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/elasi2007og-hub">
-    <img src="https://img.shields.io/badge/GitHub-elasi2007og--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Asier_Orgaz_Gabriel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Asier Orgaz Gabriel" />
   </a>
   <a href="https://github.com/elasi2007og-hub?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-2º_ASIR-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Repositorios" />
+    <img src="https://img.shields.io/badge/Repositorios-2º_ASIR-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Repositorios de Asier Orgaz Gabriel" />
   </a>
   <a href="mailto:elasi2007og@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Gmail-2496ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
+    <img src="https://img.shields.io/badge/Contacto-Gmail-2496ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto de Asier Orgaz Gabriel" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 **Perfil:** Estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red), enfocado en la administración de servidores, redes y despliegue de aplicaciones web.
+- 💻 **Nombre:** Soy **Asier Orgaz Gabriel**, estudiante de **2º de ASIR** (Administración de Sistemas Informáticos en Red), enfocado en la administración de servidores, redes y despliegue de aplicaciones web.
 - 🌱 **Actualmente aprendiendo:** Despliegue de aplicaciones web (**IAW**), contenedores con **Docker**, automatización en **GNU/Linux** y servicios de red.
 - 🎯 **Filosofía de trabajo:** Soluciones prácticas, código limpio y uso de tecnologías abiertas (**FLOSS & KISS**).
 
@@ -55,16 +55,16 @@
 ## 📊 Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elasi2007og-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats de elasi2007og-hub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elasi2007og-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de elasi2007og-hub" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elasi2007og-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Asier Orgaz Gabriel" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elasi2007og-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Asier Orgaz Gabriel" height="160" />
 </p>
 
 ---
 
 ## 📌 Proyectos destacados
 
-- 🔹 [**2asir2627afh**](https://github.com/elasi2007og-hub/2asir2627afh) — Repositorio de prácticas y laboratorios para el módulo de **Ampliación de Fundamentos de Hardware (AFH)**.
-- 🔹 [**elasi2007og-hub**](https://github.com/elasi2007og-hub/elasi2007og-hub) — Mi repositorio especial de presentación de perfil en GitHub (**Práctica P1.1 — Implantación de Aplicaciones Web**).
+- 🔹 [**2asir2627afh**](https://github.com/elasi2007og-hub/2asir2627afh) — Repositorio de prácticas y laboratorios de **Asier Orgaz Gabriel** para el módulo de **Ampliación de Fundamentos de Hardware (AFH)**.
+- 🔹 [**Perfil de GitHub (P1.1 - IAW)**](https://github.com/elasi2007og-hub/elasi2007og-hub) — Repositorio especial de presentación de **Asier Orgaz Gabriel** en GitHub (**Práctica P1.1 — Implantación de Aplicaciones Web**).
 
 <details>
   <summary><strong>➕ Ver más información sobre mi formación en 2º ASIR</strong></summary>
@@ -83,10 +83,11 @@
 
 ## 📫 Contacto
 
+- 👤 **Autor:** Asier Orgaz Gabriel
 - 📧 **Email:** [elasi2007og@gmail.com](mailto:elasi2007og@gmail.com)
 - 🌐 **Perfil de GitHub:** [github.com/elasi2007og-hub](https://github.com/elasi2007og-hub)
 - 📂 **Repositorios:** [Explorar todos mis proyectos públicos](https://github.com/elasi2007og-hub?tab=repositories)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f6feb,100:58a6ff&height=110&section=footer" width="100%" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:1f6feb,100:58a6ff&height=110&section=footer" width="100%" alt="Footer de Asier Orgaz Gabriel" />
 </p>
